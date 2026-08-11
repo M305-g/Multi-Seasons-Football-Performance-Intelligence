@@ -6,15 +6,21 @@ A data-driven football analytics project evaluating multi-season player and team
 
 Football clubs increasingly rely on data-driven approaches to improve player recruitment, squad planning, and tactical decision-making. This project developed a Multi-Season Football Performance Intelligence framework to evaluate player and team performance trends using large-scale football data.
 
+
 The analysis used Kaggle datasets, including a player performance dataset containing 1,878,719 records and a player profile dataset containing 92,671 players. The project evaluated long-term player contribution using performance indicators such as goals, assists, goal contribution, average contribution, goal contribution per 90 minutes, peak contribution, and consistency across multiple seasons.
+
 
 Data preparation and transformation were performed using SQL to create structured analytical tables for player, position, and club-level evaluation. Python was then used for exploratory and statistical analysis, including descriptive statistics, distribution analysis, skewness, correlation analysis, ANOVA, Tukey HSD testing, and high-performance player classification.
 
+
 The findings identified significant differences in performance contribution between player positions, confirmed statistically through ANOVA **(F-statistic = 6414.5, p-value = 0)** and Tukey HSD multiple comparisons. The analysis also showed that player contribution is highly concentrated, with a smaller group of elite performers producing exceptionally high outputs, demonstrated by a right-skewed distribution **(skewness = 3.5)**. A goal contribution threshold of **79** was established to identify high-performing players and evaluate their distribution across clubs.
+
 
 From a sporting and business perspective, this framework supports more objective decision-making. For the Sporting Director, the insights support recruitment, player retention, squad investment, and identification of high-value performers using multi-season evidence rather than short-term performance alone. For the Head Coach, the framework supports position-specific player evaluation, squad selection, tactical planning, and monitoring of player development and performance trends.
 
+
 By combining SQL data preparation, Python statistical validation, and Tableau visualization, this project transforms football data into actionable performance intelligence to support sustainable squad development and competitive decision-making.
+
 
 The raw dataset contained 1,878,719 performance records across 92,671 player profiles. After removing duplicates, incomplete records, and players without sufficient multi-season history to support reliable trend analysis, the final analytical population used for statistical testing was 88,375 players.
 
