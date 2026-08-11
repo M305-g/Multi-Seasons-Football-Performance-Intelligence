@@ -445,6 +445,12 @@ mwanahamis050@gmail.com
 
 +255787338398
 
-Tableau Public: https://public.tableau.com/app/profile/mwanahamisi.juma/vizzes
+Tableau Public: 
+
+https://public.tableau.com/app/profile/mwanahamisi.juma/viz/MultiSeasonsPlayerPerformance/MultiSeasonsPlayerPerformanceDashboardq
+
+https://public.tableau.com/app/profile/mwanahamisi.juma/viz/ClubPerformanceIntelligence/ClubPerformanceIntellience?publish=yes
+
+https://public.tableau.com/app/profile/mwanahamisi.juma/viz/PerformanceDriversDashbord/PerformanceDrivers
 
 Linkedin: https://www.linkedin.com/in/mwanahamisi-juma-00576b394/
