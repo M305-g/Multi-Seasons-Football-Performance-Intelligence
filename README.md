@@ -440,5 +440,11 @@ That shift — from "how much did a player produce" to "how reliably, and relati
 The statistics here don't replace scouting or coaching judgment — they narrow where that judgment needs to be spent.
 
 Mwanahamisi Juma
+
 mwanahamis050@gmail.com
+
 +255787338398
+
+Tableau Public: https://public.tableau.com/app/profile/mwanahamisi.juma/vizzes
+
+Linkedin: https://www.linkedin.com/in/mwanahamisi-juma-00576b394/
