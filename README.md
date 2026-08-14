@@ -41,12 +41,15 @@ To develop a data-driven performance intelligence framework that evaluates multi
 **Project Questions**
 
 1. Which players demonstrate sustainable performance growth across multiple seasons and which show signs of performance decline?
+   
 Players with longer season records and stronger average-to-peak consistency — such as player IDs 28003 and 8198, who sustained averages of 40 and 37 across 28 seasons — demonstrate genuine long-term reliability, while players showing wide swings between peak and lowest seasonal output (0–3 in low seasons) signal inconsistency or possible decline that raw totals alone would hide.
 
-2. Which player characteristics and performance indicators contributed most to long-term team success?
+3. Which player characteristics and performance indicators contributed most to long-term team success?
+   
 Position was the strongest and most statistically confirmed driver of output (ANOVA F = 6,414.5, p = 0), followed by efficiency (goal contribution per 90) and career consistency; physical characteristics like height and preferred foot showed only minor, secondary effects on performance.
 
-3. How can multi-seasonal performance intelligence support coaching decisions on squad selection, player development, and tactical planning?
+5. How can multi-seasonal performance intelligence support coaching decisions on squad selection, player development, and tactical planning?
+   
 By replacing single-season snapshots and blended KPIs with position-specific benchmarks, per-90 efficiency, and peak-vs-average consistency tracking, coaches can select and develop players based on sustained, statistically grounded evidence rather than reputation or a single standout season.
 
 **Data Preparation**
