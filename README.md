@@ -441,6 +441,10 @@ The statistics here don't replace scouting or coaching judgment — they narrow 
 
 Mwanahamisi Juma
 
+
+Football Performance Analyst 
+
+
 mwanahamis050@gmail.com
 
 +255787338398
