@@ -357,25 +357,29 @@ Correlation analysis returned r = 0.339 (p = 0) — statistically significant, b
 
 1. Evaluate players against position-specific benchmarks, not a single standard
 
-With Tukey HSD confirming significant differences between every positional pair (forwards +42 over defenders, +56 over goalkeepers, +26 over midfielders), grading a squad on one contribution scale misrepresents defensive and goalkeeping performance. Action: Build separate performance dashboards and review criteria for forwards, midfielders, defenders, and goalkeepers rather than a blended KPI.
+With Tukey HSD confirming significant differences between every positional pair (forwards +42 over defenders, +56 over goalkeepers, +26 over midfielders), grading a squad on one contribution scale misrepresents defensive and goalkeeping performance. 
 
 2. Prioritize per-90 efficiency over cumulative totals in team selection
 
-Player 42538 posted the highest per-90 efficiency (13) despite only 11 seasons and 1,552 minutes — proof that high-output players aren't always the highest-minutes players. Action: When rotating squads or assessing impact substitutes, weight efficiency metrics alongside total output, especially for players returning from injury or with limited minutes.
+Player 42538 posted the highest per-90 efficiency (13) despite only 11 seasons and 1,552 minutes — proof that high-output players aren't always the highest-minutes players.
+Action: When rotating squads or assessing impact substitutes, weight efficiency metrics alongside total output, especially for players returning from injury or with limited minutes.
 
 3. Use peak-vs-average gap as an in-season form indicator
 
-Elite players still show wide swings between peak (e.g., 102, 82) and lowest seasonal output (0–3). Action: Track each player's rolling average against their career peak to flag dips in form early, rather than relying on season-total contribution, which can mask mid-season slumps.
+Elite players still show wide swings between peak (e.g., 102, 82) and lowest seasonal output (0–3). 
+Action: Track each player's rolling average against their career peak to flag dips in form early, rather than relying on season-total contribution, which can mask mid-season slumps.
 
 4. Don't over-index on career length when picking starters
 
-Longest careers (33–38 seasons) represent only ~0.02% of the dataset and don't correlate directly with current output. Action: Treat longevity as a durability/experience factor in squad balance decisions, not as a proxy for present-day form.
+Longest careers (33–38 seasons) represent only ~0.02% of the dataset and don't correlate directly with current output. 
+Action: Treat longevity as a durability/experience factor in squad balance decisions, not as a proxy for present-day form.
 
 **For the Sporting Director**
 
 1. Recruit against the data-driven "elite" threshold, not reputation alone
 
-A goal-contribution threshold of 79 statistically separates elite performers from the rest of the population. Action: Formalize this threshold (or a position-adjusted equivalent) as a screening filter in scouting reports, and flag any target above it for priority evaluation.
+A goal-contribution threshold of 79 statistically separates elite performers from the rest of the population. 
+Action: Formalize this threshold (or a position-adjusted equivalent) as a screening filter in scouting reports, and flag any target above it for priority evaluation.
 
 2. Target clubs with a strong pipeline of high performers
 
@@ -383,19 +387,23 @@ Liverpool (14), Medialiga RU (12), and Arsenal FC (11) currently hold the deepes
 
 3. Decide squad-building philosophy: concentrated stars vs. distributed depth
 
-Inter Miami CF (26 players, 101.6 avg) and Bayern Munich (23 players, 90.4 avg) generate high output from smaller, more productive groups, while Arsenal FC spreads similar total output (2,437) across 58 players (avg 42). Action: Clarify recruitment strategy — a "fewer, elite" model reduces squad-depth risk but raises injury/rotation exposure; a "broad contributor base" model is more resilient but costs more in total wage/roster spend. Recommend Sporting Director present both models to ownership with associated budget implications.
+Inter Miami CF (26 players, 101.6 avg) and Bayern Munich (23 players, 90.4 avg) generate high output from smaller, more productive groups, while Arsenal FC spreads similar total output (2,437) across 58 players (avg 42).
+Action: Clarify recruitment strategy — a "fewer, elite" model reduces squad-depth risk but raises injury/rotation exposure; a "broad contributor base" model is more resilient but costs more in total wage/roster spend. Recommend Sporting Director present both models to ownership with associated budget implications.
 
 4. Don't let preferred foot or height narrow the recruitment funnel
 
-Both-footed players had the highest average contribution (47.62) but represent only 3,089 of ~88,000 players — too small a pool to recruit from exclusively. Elite performers in the top 10 ranged from 170–195 cm and included right-, left-, and both-footed players. Action: Keep technical versatility (both-footedness) as a positive tiebreaker in scouting, not a hard filter, since exceptional output clearly occurs across all foot/height profiles.
+Both-footed players had the highest average contribution (47.62) but represent only 3,089 of ~88,000 players — too small a pool to recruit from exclusively. Elite performers in the top 10 ranged from 170–195 cm and included right-, left-, and both-footed players. 
+Action: Keep technical versatility (both-footedness) as a positive tiebreaker in scouting, not a hard filter, since exceptional output clearly occurs across all foot/height profiles.
 
 5. Treat single-season performance data as provisional
 
-Players with only 1 recorded season averaged just 0.3 contributions — far below multi-season elite performers — because a single season is a weak sample. Action: Require a minimum 3–4 season track record (or equivalent minutes threshold) before making high-value transfer commitments based on output stats alone; use single-season data only in combination with scouting/eye-test evidence.
+Players with only 1 recorded season averaged just 0.3 contributions — far below multi-season elite performers — because a single season is a weak sample. 
+Action: Require a minimum 3–4 season track record (or equivalent minutes threshold) before making high-value transfer commitments based on output stats alone; use single-season data only in combination with scouting/eye-test evidence.
 
 6. Use the moderate positive correlation (r = 0.339) as a supporting signal, not a decision rule
 
-The relationship between the two correlated performance variables is real but only moderate. Action: Continue building a multi-metric recruitment scorecard (total contribution, per-90 efficiency, consistency, position, age/career stage) rather than relying on any single statistic to justify a signing.
+The relationship between the two correlated performance variables is real but only moderate. 
+Action: Continue building a multi-metric recruitment scorecard (total contribution, per-90 efficiency, consistency, position, age/career stage) rather than relying on any single statistic to justify a signing.
 
 **Relevance to AFCON 2027**
 
